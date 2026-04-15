@@ -1,0 +1,30 @@
+{
+  "id": "Q0740",
+  "text_canonical": "管灌進食的時候需要特別注意衛生嗎？管子多久需要清潔或更換一次？",
+  "answer": "管灌進食時衛生非常重要，因為稍有不慎可能會引發感染。以下是關於灌食的注意事項：(1)每次灌食前後都要清洗雙手，確保使用乾淨的灌食器具。(2)灌食後，應用乾淨的水沖洗管子，防止殘留物堵塞管道。(3)管灌器具應每日消毒，建議每4至6週更換新的灌食管子。(4)如果感覺管子有異常，例如堵塞或損壞，應立即聯繫醫護人員進行檢查或更換。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0231"
+  ],
+  "version": "2025-02-17"
+}

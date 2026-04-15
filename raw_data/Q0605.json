@@ -1,0 +1,32 @@
+{
+  "id": "Q0605",
+  "text_canonical": "我因為口腔癌手術後不能工作，怎麼申請急難救助？",
+  "answer": "手術後無法工作，急難救助是及時紓困的好選擇：(1)撥打1957免費諮詢專線，了解急難救助的申請條件與所需文件。如果您居住地有社會福利中心，可以前往請當地的社工人員會幫助您準備所有文件。(2)慈善機構如行天宮、佛教慈濟基金會也提供急難救助方案，通常需由社工評估家庭狀況並轉介申請。您可以尋求社會局或醫院社工協助，快速找到資源的途徑。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": true,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0175"
+  ],
+  "version": "2025-02-12"
+}

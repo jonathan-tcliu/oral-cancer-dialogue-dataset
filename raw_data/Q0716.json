@@ -1,0 +1,27 @@
+{
+  "id": "Q0716",
+  "text_canonical": "如果手術前已經很虛弱，醫生有沒有建議補充哪些特定的維生素或礦物質？",
+  "answer": "如果手術前身體很虛弱，醫生可能會建議補充一些特定的營養，例如：(1)維生素C幫助傷口癒合，鐵質提高體力。(2)維生素D和鈣幫助骨骼健康。不過，這些補充品需要醫生的指導，才能選擇最適合您的種類和劑量。不要自行購買保健品，因為有些產品可能不適合癌症患者。最重要的是，儘量從均衡的飲食中獲取營養，如果真的吃不夠，可以請營養師提供補充建議。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": "手術前",
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0222"
+  ],
+  "version": "2025-02-17"
+}

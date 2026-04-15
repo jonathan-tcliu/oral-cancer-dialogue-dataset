@@ -1,0 +1,41 @@
+{
+  "id": "Q0599",
+  "text_canonical": "口腔癌治療後，我擔心外觀影響求職，該怎麼辦？",
+  "answer": "辛苦了！面對外觀改變對求職的影響，您可以嘗試參加支持性團體，如陽光基金會的『口友展顏團體』，與其他病友交流，學習他們的應對方式，並幫助增強您的自信。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [
+    "咀嚼困難",
+    "吞嚥困難",
+    "發音說話困難",
+    "張口困難流口水",
+    "皮膚紅腫口腔黏膜破損嚴重",
+    "口乾嚴重",
+    "面部外觀改變",
+    "體重減輕營養不良"
+  ],
+  "心理問題": false,
+  "RTW": true,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0178"
+  ],
+  "version": "2025-02-10"
+}

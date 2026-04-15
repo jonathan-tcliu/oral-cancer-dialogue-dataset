@@ -1,0 +1,30 @@
+{
+  "id": "Q0713",
+  "text_canonical": "手術前幾天應該特別吃什麼來幫助恢復得快一點嗎？需要注意什麼？",
+  "answer": "手術前幾天，建議多吃高蛋白質和容易消化的食物，蛋白質食物如：(1)魚肉、雞蛋、豆腐、濃湯或蒸蛋，有助於傷口癒合和增強體力。(2)多補充蔬菜和水果，提供維生素幫助身體恢復。(3)避免太油膩、太甜或刺激性的食物，例如炸雞或辣的東西，這些會增加腸胃的負擔。(4)記得多喝水，讓身體保持足夠的水分，這對手術前的準備很重要。如果有任何疑問，建議先詢問醫生或營養師。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0224"
+  ],
+  "version": "2025-02-17"
+}

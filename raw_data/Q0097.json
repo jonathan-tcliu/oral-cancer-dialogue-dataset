@@ -1,0 +1,31 @@
+{
+  "id": "Q0097",
+  "text_canonical": "我要如何面對家人生病後自己的角色轉換？",
+  "answer": "辛苦了！無論您現在承擔與扮演的角色是什麼，此時感到困惑和壓力是正常的，建議可以試著與您信任的家人、朋友分享您的感受，也可以嘗試搜尋加入癌症照護者的相關支持團體，與其他照護者聊聊天、談談彼此的想法。有些時候對照護者而言，經歷了親人罹患癌症後反而能因此學習到更多不同的事物喔！",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "F"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": true,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0011"
+  ],
+  "version": "2024-10-25"
+}

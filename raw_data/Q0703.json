@@ -1,0 +1,27 @@
+{
+  "id": "Q0703",
+  "text_canonical": "治療還沒開始，我是不是只能吃很清淡的食物才比較安全？吃錯東西會不會對病情有影響？",
+  "answer": "並非只能吃清淡的食物，但清淡飲食通常更溫和，能減少口腔不適或消化負擔。不過，清淡不等於沒有營養，仍需確保均衡攝取蛋白質、碳水化合物、脂肪和微量營養素。例如：(1)蒸蛋、雞湯或柔軟的全穀食品是既清淡又有營養的選擇。(2)應避免過鹹、油炸或過於加工的食物，因為它們可能增加身體負擔。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": "手術前",
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0222"
+  ],
+  "version": "2025-02-17"
+}

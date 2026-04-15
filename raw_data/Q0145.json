@@ -1,0 +1,31 @@
+{
+  "id": "Q0145",
+  "text_canonical": "我需要做幾次的放射線治療?\n放射線治療多久做一次?\n放射線治療療程總共多久?",
+  "answer": "大部分的放射線治療通常是每天一次，安排在周一至周五，週六和週日則休息，以便讓正常組織從放射線的傷害中恢復。一般來說，每次治療大約只需5到10分鐘（如果是強度調控治療，則時間會更長）。如果病情允許，患者不需要住院，只需在指定的時間來院接受治療即可。治療的次數將根據您的病情而定，醫師會在治療前向您詳細說明相關內容。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "U"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": true,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0038"
+  ],
+  "version": "2024-10-25"
+}

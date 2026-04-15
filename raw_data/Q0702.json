@@ -1,0 +1,31 @@
+{
+  "id": "Q0702",
+  "text_canonical": "我剛發現自己得口腔癌，覺得吃東西很痛苦，我能不能用牛奶來當主要營養來源？",
+  "answer": "不建議單一依賴牛奶作為主要營養來源。牛奶富含蛋白質和鈣，適量飲用對身體有益，但治療期間仍需均衡飲食以提供完整營養。如果您對乳糖不耐受，可以考慮無乳糖牛奶或豆漿來替代。如果醫生未特別限制，牛奶一般是安全的，但還是建議多與醫師、營養師討論，確保飲食符合您的需求。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0222"
+  ],
+  "version": "2025-02-17"
+}

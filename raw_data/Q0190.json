@@ -1,0 +1,31 @@
+{
+  "id": "Q0190",
+  "text_canonical": "免疫治療有健保給付還是自費?",
+  "answer": "近年來，國際上已將免疫療法納入轉移性或無法切除的復發性頭頸癌的第一線治療方案，而國內則已將其健保給付於轉移或復發的頭頸癌作為二線治療。如果轉移或復發的頭頸癌患者想單獨使用免疫療法，必須先進行PD-L1表現量（Total proportion score, TPS）的生物標記檢測，只有當檢測結果超過50%時，才能申請健保給付。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "U"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": true,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0064"
+  ],
+  "version": "2024-10-25"
+}

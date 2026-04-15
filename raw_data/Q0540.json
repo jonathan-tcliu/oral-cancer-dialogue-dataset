@@ -1,0 +1,27 @@
+{
+  "id": "Q0540",
+  "text_canonical": "我在化療或放療可以喝雞精嗎？",
+  "answer": "化療或放療期間，您可能會感到食慾不振或疲倦，可以與醫師討論，適量飲用雞精來補充營養。雞精含有小分子蛋白質，有助於促進食慾和增強體力。然而，雞精的營養成分有限，無法替代完整的飲食。因此，建議將雞精作為輔助，並在日常飲食中加入高蛋白質和高熱量的食物，如豆腐、魚肉、雞蛋等，以確保身體獲得足夠的營養。請與您的醫療團隊討論，確認雞精是否適合您的情況再食用。",
+  "source_type": "observation",
+  "modality": "mixed",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": "手術後化放療",
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0138"
+  ],
+  "version": "2025-02-10"
+}

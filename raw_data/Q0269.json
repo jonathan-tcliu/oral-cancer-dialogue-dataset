@@ -1,0 +1,32 @@
+{
+  "id": "Q0269",
+  "text_canonical": "面對外界壓力時，我要怎麼減少情緒反應？",
+  "answer": "面對外界壓力時，您可以練習正念或冥想來幫助專注當下，減少情緒反應。例如，您可以進行正念呼吸，放鬆肩膀，閉眼專注於呼吸的節奏，當思緒或情緒浮現時，輕輕帶回注意力。散步時也可專注於步伐，幫助放鬆心情，減少焦慮。每天留些時間做自己喜歡的事，也有助於穩定情緒。此外，列出能控制的壓力源，專注於可改變的部分，學會接納無法改變的，這樣能減少情緒壓力。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": true,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0108",
+    "REF0082"
+  ],
+  "version": "2024-11-07"
+}

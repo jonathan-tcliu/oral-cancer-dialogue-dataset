@@ -1,0 +1,27 @@
+{
+  "id": "Q0749",
+  "text_canonical": "現在管灌的營養品喝下去覺得胃很脹，是因為放療影響腸胃嗎？怎麼調整？",
+  "answer": "放療可能會讓腸胃變得比較敏感，所以有時候喝完管餵的營養品會覺得胃脹。這種情況可以試著一次少灌一點，但多灌幾次，減輕胃部的壓力。灌食的時候也要慢慢來，讓營養品慢慢進到胃裡。如果還是覺得不舒服，可以告訴醫生或營養師，他們會幫您調整食物的配方或進食計劃，讓您的腸胃感覺更舒服。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": "手術後化放療",
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": true,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0234"
+  ],
+  "version": "2025-02-17"
+}

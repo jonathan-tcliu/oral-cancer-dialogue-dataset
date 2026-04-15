@@ -1,0 +1,31 @@
+{
+  "id": "Q0653",
+  "text_canonical": "回去工作後，我如果需要休假或復健，怎麼跟老闆說？",
+  "answer": "作為口腔癌病人，請假或復健時與老闆溝通可遵循以下步驟：(1)簡單說明健康狀況，強調治療或復健對未來工作重要。(2)選擇適合時機與老闆討論，避免打擾他忙碌的工作時程。(3)清楚表達需求並提供解決方案，例如提前完成工作或安排同事接手。(4)如有需要，可以詢問老闆的意見。(5)強調對工作的承諾，並感謝老闆的支持。這樣將有助於順利請假或安排復健時間。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": true,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0151"
+  ],
+  "version": "2025-02-12"
+}

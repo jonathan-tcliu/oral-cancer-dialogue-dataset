@@ -1,0 +1,30 @@
+{
+  "id": "Q0176",
+  "text_canonical": "有沒有專門針對癌症患者設計的運動計劃？",
+  "answer": "針對口腔癌病人的復健運動包括口腔運動訓練、緩解肩頸僵硬的運動、改善肩膀無力的運動、上肢取皮區的運動訓練、下肢取皮區的運動訓練以及心肺運動訓練等。需要特別注意的是，進行復健運動時，並不是強度越高或越疼痛就越有效；過度訓練可能反而造成傷害。如果您對自己的運動強度或方式有疑問，建議可以諮詢專業醫師或治療師。每種運動都應根據個人的情況進行評估和建議，以確保運動的安全性和達到最佳效果。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "P"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": true,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0044"
+  ],
+  "version": "2024-10-25"
+}

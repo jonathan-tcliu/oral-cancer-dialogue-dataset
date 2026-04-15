@@ -1,0 +1,38 @@
+{
+  "id": "Q0580",
+  "text_canonical": "口腔癌手術會影響外觀嗎？如果會怎麼辦？",
+  "answer": "外觀是否影響將會依據您的腫瘤大小與侵犯程度而定，如情況需要，醫師將會照會整形外科醫師評估重建美容手術的可行性來改善手術後的外觀。",
+  "source_type": "clinician_faq",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [
+    "咀嚼困難",
+    "吞嚥困難",
+    "發音說話困難",
+    "張口困難流口水",
+    "皮膚紅腫口腔黏膜破損嚴重",
+    "口乾嚴重",
+    "面部外觀改變",
+    "體重減輕營養不良"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [],
+  "version": "2025-02-10"
+}

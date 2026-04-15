@@ -1,0 +1,29 @@
+{
+  "id": "Q0583",
+  "text_canonical": "我治療後是否需要口腔重建手術？",
+  "answer": "手術的首要目的是徹底清除腫瘤，如腫瘤較大且切除範圍較廣，將可能會影響到外觀和功能時，會視情況與整形外科醫師合作進行口腔重建手術。",
+  "source_type": "clinician_faq",
+  "modality": "verbal",
+  "focusp": [
+    "U"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": true,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [],
+  "version": "2025-02-10"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "Q0666",
+  "text_canonical": "我看起來跟以前不一樣了，還有辦法找回原來的樣子嗎？",
+  "answer": "手術或治療後的外觀改變，可能無法完全恢復到過去的樣子，但醫學和美容技術的進步，讓許多修復方案成為可能。例如，臉部重建手術、疤痕修復治療都可以改善外觀。此外，復健運動也有助於改善面部功能和對稱性。如果考慮進一步修復，建議與專業醫師討論，了解最適合您的選項。同時，接納改變也是很重要的一步，因為這些改變是你努力生存的象徵，彰顯了你的勇氣和韌性。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "O",
+    "C"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [
+    "面部外觀改變"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0212"
+  ],
+  "version": "2025-02-12"
+}

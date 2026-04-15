@@ -1,0 +1,27 @@
+{
+  "id": "Q0496",
+  "text_canonical": "以我目前的状況，什麼樣的治療方式比較適合我?",
+  "answer": "當您在門診檢查後被確診為口腔癌，醫師會詳細介紹適合您的後續治療計劃，主要包括手術切除、放射治療或化療，並根據您的診斷分期提供相應建議。如果腫瘤範圍較大，醫師可能會根據需要會診其他科別，如放射腫瘤科、腫瘤內科、整形外科、耳鼻喉科和復健科，以制定綜合的治療策略。在開始這些治療之前，醫師會與您進行討論。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "U"
+  ],
+  "treatment_phase": "手術前",
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": true,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0061"
+  ],
+  "version": "2024-12-04"
+}

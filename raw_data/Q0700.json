@@ -1,0 +1,34 @@
+{
+  "id": "Q0700",
+  "text_canonical": "有人跟我說雞精、燕窩可以補身體，真的有效嗎？我需要花錢去買嗎？",
+  "answer": "雞精或燕窩並不是必須的。這些食品雖然有些營養，但價格高且未必能針對癌症患者的需求提供足夠幫助。與其花錢買昂貴的補品，不如選擇均衡飲食，像是雞蛋、瘦肉、豆腐或新鮮蔬果，這些都是可便宜買到又能提供豐富營養的選擇。如果特別想補充其他營養，建議先詢問醫師或營養師，避免花冤枉錢或吃了不適合的東西。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [
+    "體重減輕營養不良"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0222"
+  ],
+  "version": "2025-02-17"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "Q0770",
+  "text_canonical": "治療師讓我嘗試不同質地的食物，為什麼有些質地更難吞？我該練習哪些食物比較重要？",
+  "answer": "不同質地的食物對吞嚥的要求不一樣，像是太乾的食物容易卡住，而太滑的食物則可能滑入氣管。治療師通常會建議從濃稠的食物開始，因為它們比較容易控制，例如泥狀或濃湯類的食物。隨著吞嚥功能的提升，可以逐漸練習半固體或軟質食物，例如蒸蛋、軟飯或燉菜，這些食物對之後的飲食恢復非常重要。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S",
+    "P"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": true,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0236"
+  ],
+  "version": "2025-02-17"
+}

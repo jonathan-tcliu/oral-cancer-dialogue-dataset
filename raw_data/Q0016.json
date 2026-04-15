@@ -1,0 +1,32 @@
+{
+  "id": "Q0016",
+  "text_canonical": "我們應該注意哪些生活習慣？",
+  "answer": "生活習慣建議可從戒除香菸、檳榔、酒開始做起，採溫和軟質的飲食、避免長期食用太熱或刺激性的食物，並且養成經常維持口腔清潔衛生（經常刷牙漱口）與每日執行口腔自我檢視的習慣，觀察口腔內是否有發紅、潰瘍、白斑等的情形，如口腔內有發現腫塊或久不癒合的潰瘍或白斑，應盡早就醫檢查。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "F",
+    "U"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": "生活習慣/方式調整問題",
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0015"
+  ],
+  "version": "2024-10-24"
+}

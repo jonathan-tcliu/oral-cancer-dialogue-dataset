@@ -1,0 +1,32 @@
+{
+  "id": "Q0801",
+  "text_canonical": "治療焦慮讓我無法正常生活，怎麼辦？",
+  "answer": "辛苦了，聽起來您曾經歷了一段很難熬的時間。如果焦慮情緒過於強烈，尋求幫助非常重要，建議您可以與信賴的朋友、家人或心理專家談談，以獲得專業指導，學習放鬆技巧與有效的應對方式。",
+  "source_type": "clinician_faq",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": true,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0239"
+  ],
+  "version": "2025-03-13"
+}

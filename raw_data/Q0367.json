@@ -1,0 +1,31 @@
+{
+  "id": "Q0367",
+  "text_canonical": "家裡的經濟狀況可能會因為我的治療費用而變得困難，該怎麼辦？",
+  "answer": "辛苦了！當病人或主要照顧者為家中經濟主要來源者時，病人因為接受癌症相關治療而影響工作，將可能使得家庭經濟面臨危機與挑戰。如有遇到經濟上的問題，可嘗試搜尋社會福利相關資源（如：陽光社會福利基金會），尋找是否有合適您的家庭狀況的醫療補助、生活急難救助等津貼之服務。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": true,
+  "經濟與社會資源": true,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0016"
+  ],
+  "version": "2024-12-04"
+}

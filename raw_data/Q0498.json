@@ -1,0 +1,32 @@
+{
+  "id": "Q0498",
+  "text_canonical": "癌症治療會有健保給付嗎?",
+  "answer": "口腔癌的治療大部分可以獲得健保補助，目前超過90%的治療方法，包括手術、放射線治療和化學治療，都已納入健保給付範圍。確診後，您可以申請重大傷病證明，獲得部分就診項目的支付支持。不過，由於健保資源有限，某些特定癌症的治療和藥物會有給付條件及適用對象，醫生會根據您的病情建議使用自費藥物，並與您討論相關事宜。每位病人的病情各異，具體情況將根據您的狀況來決定。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "C",
+    "U"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": true,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0049"
+  ],
+  "version": "2024-12-04"
+}

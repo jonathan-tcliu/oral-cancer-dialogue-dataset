@@ -1,0 +1,30 @@
+{
+  "id": "Q0461",
+  "text_canonical": "我擔心止痛藥的副作用，會成癮嗎？",
+  "answer": "止痛藥成癮的原因較為複雜，多和環境、心理因素有關，正常情況若是依照醫師治療指示下使用，成癮的機率非常低。有病人因為疼痛存在就必須使用嗎啡藥品來止痛，否則無法維持生活，此時就可判斷病患對於藥品的依賴性較高。因此，建議依照醫師開立的處方進行藥物的使用將可良好的控制成癮問題。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "U"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": "止痛藥使用成癮問題",
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0174"
+  ],
+  "version": "2024-12-04"
+}

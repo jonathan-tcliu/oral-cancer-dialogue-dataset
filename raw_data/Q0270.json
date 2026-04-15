@@ -1,0 +1,31 @@
+{
+  "id": "Q0270",
+  "text_canonical": "家人為我付出很多照顧，我該怎麼向家人表達感謝？",
+  "answer": "您可以直接對家人說「謝謝」，或具體表達您的感激，例如：「感謝您一直陪伴我，讓我感到安心。」 如果不方便或不好意思當面說，可以寫感謝卡或發訊息，讓他們知道他們的幫助對您的重要性。您也可以通過行動回報他們，比如做家務、準備餐點或關心他們的情緒，讓他們感受到您的關懷。當您做決策時，可以邀請家人參與，這能增強他們的參與感與被尊重的感覺。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "F",
+    "C"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": true,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0104"
+  ],
+  "version": "2024-11-07"
+}

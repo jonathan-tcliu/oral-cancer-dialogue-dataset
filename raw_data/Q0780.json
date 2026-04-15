@@ -1,0 +1,33 @@
+{
+  "id": "Q0780",
+  "text_canonical": "我每次喝湯或流質食物的時候，喉嚨會覺得癢，是不是還需要繼續練習吞嚥？",
+  "answer": "喝湯或流質食物時喉嚨感覺癢，可能是吞嚥肌肉還在恢復中，或者食物溫度或質地刺激了喉嚨。這種情況下，還是可以繼續練習吞嚥，但要注意選擇適合的食物。您可以嘗試溫度適中的稠湯或濃湯，這類食物比較容易控制，也能減少刺激。如果覺得癢的情況還是持續，建議和醫師及治療師討論，他們可以調整您的訓練方法或進一步檢查原因。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [
+    "咀嚼困難",
+    "吞嚥困難"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0226"
+  ],
+  "version": "2025-02-17"
+}

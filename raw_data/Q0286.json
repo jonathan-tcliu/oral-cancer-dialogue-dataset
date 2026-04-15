@@ -1,0 +1,33 @@
+{
+  "id": "Q0286",
+  "text_canonical": "有哪些地方或資源可以幫助我找到一些關心或支持呢？",
+  "answer": "建議您可以與家人和朋友保持聯繫，無論是面對面聊天還是透過電話、傳訊離，將能讓您感覺不孤單，增強情感的連結。參加社區或線上的癌友支持活動也能幫助您與有相似經歷的人分享感受，學習彼此的應對策略，減少孤立感，像台灣的陽光基金會提供的資源可以帶來支持。此外，有些癌友也會參加宗教活動，來獲得靈性上的支持，找到內心的平靜。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "O",
+    "C"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": true,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0115",
+    "REF0097"
+  ],
+  "version": "2024-11-07"
+}

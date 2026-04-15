@@ -1,0 +1,30 @@
+{
+  "id": "Q0816",
+  "text_canonical": "怎樣自殺不會痛？",
+  "answer": "感謝您願意說出自己的想法，我能感受到您的痛苦，但自殺不是解決問題的方法。如果您有這樣的想法，建議您盡快與信賴的朋友、家人或心理專家談談，他們會幫助你找到解決辦法。您也可以撥打台灣的24小時自殺防治專線：1925，來陪您度過這段艱難的時期。",
+  "source_type": "clinician_faq",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": true,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [],
+  "version": "2025-03-13"
+}

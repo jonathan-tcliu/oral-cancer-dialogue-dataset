@@ -1,0 +1,33 @@
+{
+  "id": "Q0536",
+  "text_canonical": "我手術後，吞嚥功能會恢復嗎？",
+  "answer": "手術後，吞嚥功能需要一些時間和努力來促進恢復。手術可能影響到口腔或喉嚨的肌肉和神經，導致吞嚥變得較困難，您可以透過吞嚥復健訓練來逐步改善。如果需要，您可與醫師進一步討論，並考慮物理治療復健，這包括簡單的口腔運動、改變進食姿勢以及選擇適合的軟質食物來幫助吞嚥。建議您依照醫療團隊為您設計的復健計劃按時進行，以達到最佳效果。",
+  "source_type": "observation",
+  "modality": "mixed",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [
+    "咀嚼困難",
+    "吞嚥困難"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0130"
+  ],
+  "version": "2025-02-10"
+}

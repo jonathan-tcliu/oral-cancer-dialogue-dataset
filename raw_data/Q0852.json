@@ -1,0 +1,30 @@
+{
+  "id": "Q0852",
+  "text_canonical": "我感覺自己沒有價值...",
+  "answer": "感謝您願意說出自己的想法，我不知道您發生什麼事，有時候我們會有這樣的想法，但請記住，您具有價值也很寶貴，值得被珍惜。建議您可以嘗試與信賴的朋友、家人聊聊，或尋求心理諮商師、專業醫療的協助。",
+  "source_type": "clinician_faq",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": true,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [],
+  "version": "2025-03-13"
+}

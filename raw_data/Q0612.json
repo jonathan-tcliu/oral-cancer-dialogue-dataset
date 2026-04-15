@@ -1,0 +1,32 @@
+{
+  "id": "Q0612",
+  "text_canonical": "我聽說一些基金會有急難救助，這是什麼？我能申請嗎？",
+  "answer": "急難救助是針對家庭突發經濟困難提供援助，例如因口腔癌治療失去收入或無法負擔生活費。補助項目通常包括生活費、醫療費、交通費等。您可向當地社會福利中心申請政府急難救助，撥打1957專線了解申請條件，需要提供醫師診斷證明、收入及開銷證明。民間基金會如行天宮、全聯急難救助、智邦公益館等，也提供相關補助，需社工轉介並評估，建議在事故發生後三至六個月內申請。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": true,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0188",
+    "REF0189"
+  ],
+  "version": "2025-02-12"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Q0572",
+  "text_canonical": "放射治療之後的牙齒要注意什麼？",
+  "answer": "放射線治療後應注意口腔清潔，使用牙線及牙刷仔細清潔，3-6個月可至牙科定期洗牙與塗氟，口水減少也會易導致蛀牙，故放射治療後3-5年不建議拔牙，並建議至牙科定期追蹤。",
+  "source_type": "clinician_faq",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": true,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [],
+  "version": "2025-02-10"
+}

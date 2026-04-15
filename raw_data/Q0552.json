@@ -1,0 +1,28 @@
+{
+  "id": "Q0552",
+  "text_canonical": "口腔癌患者需要補充哪些營養？\n多少熱量才夠？可以打點滴嗎？",
+  "answer": "口腔癌患者需要高熱量、高蛋白的飲食來維持身體機能，建議：(1)選擇濕滑、軟質、容易咀嚼和吞嚥的食物；(2)可輔以營養補充品；(3)簡單計算每日所需熱量：體重 × 30-35 大卡，並記錄營養日誌後，向營養師諮詢，制定個人化的飲食計畫；(4)必要時可透過營養點滴補充，但若狀況許可，仍會優先鼓勵無法口進食的患者使用腸道營養補充。",
+  "source_type": "clinician_faq",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [],
+  "version": "2025-02-10"
+}

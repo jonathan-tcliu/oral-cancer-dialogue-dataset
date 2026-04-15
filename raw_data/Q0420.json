@@ -1,0 +1,32 @@
+{
+  "id": "Q0420",
+  "text_canonical": "誰可以協助我處理外觀、形象的問題？",
+  "answer": "您可以詢問整形外科醫師進行「整形手術」評估。許多口腔癌病人在手術後，可能會面臨如疤痕攣縮、口腔閉合不全或張口受限、凹凸不平等外觀及功能上的問題，在病情穩定的情況下，醫師可以評估進行手術來改善這些狀況，如修疤手術、局部或顯微游離皮瓣重建手術等。關於傷口照護，醫師會為您制定個別的治療計劃，針對例如放射治療後造成的傷口癒合問題，提供手術治療、照護方法及傷口敷料使用等建議。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [
+    "面部外觀改變"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0152"
+  ],
+  "version": "2024-12-04"
+}

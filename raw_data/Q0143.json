@@ -1,0 +1,29 @@
+{
+  "id": "Q0143",
+  "text_canonical": "如果手術會影響外觀，要怎麼辦?",
+  "answer": "口腔癌手術後，根據腫瘤切除的範圍和後續的皮瓣移植手術，可能會對外觀造成不同程度的影響。建議您表達自己的感受以及對外觀改變的接受程度。如果有親友在身邊，與他們建立良好關係能提供心理支持和正向鼓勵。此外，您可以主動提出，醫生會根據您的情況進行評估，並與您進一步討論是否適合接受顏面整形手術，以改善外觀上的問題。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "U"
+  ],
+  "treatment_phase": "手術前",
+  "functional_impact": [
+    "面部外觀改變"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0036"
+  ],
+  "version": "2024-10-25"
+}

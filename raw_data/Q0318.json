@@ -1,0 +1,31 @@
+{
+  "id": "Q0318",
+  "text_canonical": "治療結束後，我應該多久進行一次追蹤？",
+  "answer": "治療結束後，第一年是最重要的，追蹤時間會比較頻繁，醫生可能會建議每1到3個月回診一次，檢查看有沒有復發的跡象。第二年到第三年，您可以每3到6個月回診一次，等到過了五年沒問題，可能只需要一年一次的檢查。回診時，醫生會幫您做身體檢查，可能還需要做影像檢查，像是CT或MRI，來確認一切正常。按時追蹤能讓醫生及時發現問題，早處理更安心。",
+  "source_type": "observation",
+  "modality": "mixed",
+  "focusp": [
+    "U"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": true,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0125"
+  ],
+  "version": "2024-12-04"
+}

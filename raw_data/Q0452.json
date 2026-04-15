@@ -1,0 +1,27 @@
+{
+  "id": "Q0452",
+  "text_canonical": "我一定要手術(開刀)嗎？",
+  "answer": "口腔癌在確定診斷及分期後，醫師會依病人的具體情況決定最適合的治療計劃。目前主要的治療方法以手術為主，其核心原則是徹底清除癌細胞，確保完全無癌細胞殘留。手術方式包括廣泛性腫瘤切除、頸部淋巴廓清術及組織缺損重建等。對於一般第一期患者，通常只需進行手術治療，而第二期、第三期及第四期口腔癌患者則多採取手術聯合輔助化學治療及放射治療的綜合療法。對於無法手術或預後不良的末期口腔癌患者，則只能採取化學治療或放射治療等姑息療法。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "U"
+  ],
+  "treatment_phase": "手術前",
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": true,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0166"
+  ],
+  "version": "2024-12-04"
+}

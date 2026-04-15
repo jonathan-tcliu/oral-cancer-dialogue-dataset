@@ -1,0 +1,30 @@
+{
+  "id": "Q0741",
+  "text_canonical": "管灌的營養品喝完後，我總覺得肚子脹脹的，這是正常的嗎？該怎麼解決？",
+  "answer": "管灌後感覺肚子脹，可能是因為灌食速度太快或一次的量過多。建議減慢灌食的速度，每次灌食時間控制在15到30分鐘，有些病友也可以使用滴速調節器。如果還是覺得不舒服，可以試著把每日的總量分成更多次灌食，每次少量。如果問題持續，應告訴醫生或營養師，他們將會依據您的情況調整您的營養配方或進食計劃來改善症狀。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0232"
+  ],
+  "version": "2025-02-17"
+}

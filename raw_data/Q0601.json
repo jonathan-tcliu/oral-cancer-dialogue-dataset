@@ -1,0 +1,32 @@
+{
+  "id": "Q0601",
+  "text_canonical": "我因治療而體力下降，能申請什麼彈性工作或支持？",
+  "answer": "因治療導致體力下降，您可以尋求以下支持：(1)彈性工作安排：與雇主協商調整工作時間或內容，根據您的體能狀況作出相應的安排。(2)職業重建服務：透過癌症希望基金會的「友善就業」計畫，參加職能評估和培訓，提升工作能力，找到合適的工作。(3)政府資源：向勞動部或地方就業服務中心詢問是否有針對癌症病人的就業支持計劃。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": true,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0180"
+  ],
+  "version": "2025-02-10"
+}

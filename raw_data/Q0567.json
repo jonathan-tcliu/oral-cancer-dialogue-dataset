@@ -1,0 +1,30 @@
+{
+  "id": "Q0567",
+  "text_canonical": "怎麼和孩子說明罹癌的問題？",
+  "answer": "鼓勵您可以具體的讓孩子知道父母現在得到什麼癌症、需要進行的治療包含什麼(例如手術、化學治療、放射線治療等)，依據孩子的年齡，使用孩子可以理解的語句，讓孩子可以有心理準備面對即將來臨的變化，讓孩子有足夠的機會表達心情的感受。",
+  "source_type": "clinician_faq",
+  "modality": "verbal",
+  "focusp": [
+    "F"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": "與小孩溝通問題",
+  "pii_checked": true,
+  "evidence_ref_ids": [],
+  "version": "2025-02-10"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Q0431",
+  "text_canonical": "為何手術後口內需要塞滿一球紗布？",
+  "answer": "自體皮膚移植後，為了穩定移植的皮膚，會將含有抗菌藥物的碘仿紗布做成球狀，然後用縫線將這球紗布固定在受體移植區的皮膚上，這樣可以幫助自體皮膚與下方組織緊密貼合。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "U"
+  ],
+  "treatment_phase": "手術後",
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": true,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0023"
+  ],
+  "version": "2024-12-04"
+}

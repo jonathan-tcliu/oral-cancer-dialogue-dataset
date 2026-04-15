@@ -1,0 +1,31 @@
+{
+  "id": "Q0761",
+  "text_canonical": "語言治療師說我需要練習吞嚥，但每次吞都很緊張，會不會做不好就拔不掉鼻胃管？",
+  "answer": "練習吞嚥是恢復正常進食的重要一步，但不需要太過緊張。即使過程中有困難，只要持續努力練習，吞嚥功能可能逐漸改善。醫生和語言治療師會根據您的進步來評估何時可以安全拔掉鼻胃管。您可以嘗試放鬆心情，聽從治療師的指導，逐步增加信心。記住，這是恢復過程的一部分，不需要給自己太大壓力。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S",
+    "P"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": true,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0235"
+  ],
+  "version": "2025-02-17"
+}

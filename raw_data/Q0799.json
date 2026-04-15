@@ -1,0 +1,32 @@
+{
+  "id": "Q0799",
+  "text_canonical": "我有自殘的衝動，該怎麼辦？",
+  "answer": "感謝您願意說出自己的想法，自殘可能反映出內在的情緒困擾，建議您可以尋求專業心理協助，也可以與可信賴的朋友、家人或心理專家談談，嘗試學習更健康的方式來抒發情緒。",
+  "source_type": "clinician_faq",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": true,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0238"
+  ],
+  "version": "2025-03-13"
+}

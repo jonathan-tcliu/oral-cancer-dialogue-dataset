@@ -1,0 +1,30 @@
+{
+  "id": "Q0329",
+  "text_canonical": "我擔心止痛藥的副作用，會成癮嗎？",
+  "answer": "關於止痛藥的使用，許多患者擔心會產生成癮問題。在醫師的指導下，按照處方劑量使用止痛藥，成癮的風險是非常低的。重要的是，不要自行調整劑量或停藥，這可能導致疼痛管理不佳或出現戒斷症狀。如果您對止痛藥的使用有任何疑慮，請與醫療團隊討論，他們可以為您提供更多資訊，並根據您的情況調整治療計劃，確保您的疼痛得到有效控制，同時將副作用降至最低。",
+  "source_type": "observation",
+  "modality": "mixed",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": "擔心止痛藥的副作用問題",
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0133"
+  ],
+  "version": "2024-12-04"
+}

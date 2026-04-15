@@ -1,0 +1,32 @@
+{
+  "id": "Q0067",
+  "text_canonical": "治療後有什麼要特別注意的?",
+  "answer": "口腔癌患者在治療後的復健非常重要，復健內容包括營養師的飲食建議、牙科修復、語言或吞嚥治療等多項服務。健康照護團隊會全力協助患者恢復正常生活並提高舒適度。接受根治性治療的口腔癌患者，在未來幾年內仍有復發的風險，因此建議在生活習慣上徹底戒除香煙、酒精及檳榔。每次回診時，醫生會仔細監測您的恢復狀況並注意是否有復發的跡象，因此定期的追蹤檢查是非常必要的。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "U",
+    "S"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": true,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0041"
+  ],
+  "version": "2024-10-24"
+}

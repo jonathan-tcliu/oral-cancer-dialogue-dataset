@@ -1,0 +1,34 @@
+{
+  "id": "Q0764",
+  "text_canonical": "訓練時吃的食物和我之後的吃的會一樣嗎？需要先學會吞什麼特定的食物嗎？",
+  "answer": "訓練時吃的食物通常是經過特殊設計的，例如：(1)濃稠流質或泥狀食物，這些食物更容易吞嚥，減少嗆到的風險。(2)隨著吞嚥功能改善，您會逐漸過渡到更接近日常飲食的食物。(3)治療師會幫您選擇適合的食物，先從容易吞的開始，例如蒸蛋或濃湯，然後慢慢加入其他種類，讓您慢慢適應不同的食物口感。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S",
+    "P"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [
+    "咀嚼困難",
+    "吞嚥困難"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": true,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0236"
+  ],
+  "version": "2025-02-17"
+}

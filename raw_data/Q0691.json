@@ -1,0 +1,34 @@
+{
+  "id": "Q0691",
+  "text_canonical": "別人問起我的外觀問題時，我該怎麼避免話題？",
+  "answer": "當別人問起您的外觀時，使用簡短而自然的回答可以有效減少壓力。例如，您可以說：「這是治療後的結果，但我現在恢復得很好。」或者：「這是我的健康旅程的一部分，謝謝您的關心。」這樣既不需要過多解釋，又能展現自信。如果您不想討論這個話題，可以禮貌地轉移話題，例如：「您最近過得怎麼樣？」簡單而自信的回答能有效減少他人的追問，同時也保護了您的隱私。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "O",
+    "C"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [
+    "面部外觀改變"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0215"
+  ],
+  "version": "2025-02-12"
+}

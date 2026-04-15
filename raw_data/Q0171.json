@@ -1,0 +1,30 @@
+{
+  "id": "Q0171",
+  "text_canonical": "放療期間可以運動嗎？",
+  "answer": "在放療期間，適度的運動是有益的，它能幫助減輕由放療引起的疲勞感，提升體力和耐力；促進多巴胺和內啡肽的釋放，有助於改善情緒，減少焦慮和抑鬱感。定期運動還能增強免疫力，幫助身體更有效地抵抗感染和疾病。此外，運動可以維持和增強肌肉力量，減少肌肉萎縮和骨質流失，這對於長期的康復過程至關重要。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "P"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": true,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0055"
+  ],
+  "version": "2024-10-25"
+}

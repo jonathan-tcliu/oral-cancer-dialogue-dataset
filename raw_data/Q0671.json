@@ -1,0 +1,34 @@
+{
+  "id": "Q0671",
+  "text_canonical": "治療讓我的牙齒排列變得不好看，能重新調整嗎？",
+  "answer": "治療可能會影響牙齒的排列或造成其他牙齒美觀問題，可以與您的醫師討論透過牙科矯正或美容牙科來改善，例如植牙等程序能幫助恢復牙齒的排列與外觀。如果牙齒因治療變色，也可以透過美白技術來修復笑容。在考慮這些選項前，務必與醫師討論，確保治療計畫適合你的身體狀況和需求。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "O",
+    "C"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [
+    "面部外觀改變"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0216"
+  ],
+  "version": "2025-02-12"
+}

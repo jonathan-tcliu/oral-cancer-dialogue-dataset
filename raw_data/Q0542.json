@@ -1,0 +1,27 @@
+{
+  "id": "Q0542",
+  "text_canonical": "我在化療或放療時可以吃維他命(A,B,C)嗎？",
+  "answer": "維他命A、B、C對身體健康很重要，適量攝取有助於維持免疫功能和組織修復。但是在化療或放療期間，過量補充某些維他命，也可能對身體造成負擔而影響治療效果。某些高劑量、具有抗氧化效果的維他命將可能干擾治療的作用。建議在補充任何維他命前，先與您的醫療團隊討論，確定適合您的劑量和種類，以確保安全。",
+  "source_type": "observation",
+  "modality": "mixed",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": "手術後化放療",
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0140"
+  ],
+  "version": "2025-02-10"
+}

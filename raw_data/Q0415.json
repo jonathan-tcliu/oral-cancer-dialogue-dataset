@@ -1,0 +1,31 @@
+{
+  "id": "Q0415",
+  "text_canonical": "生病後覺得非常不自信、自我懷疑、批評自己，怎麼面應?",
+  "answer": "當缺乏自信時，我們常感到焦慮和擔憂，忽略了活在當下。您可以嘗試每天寫日記或回憶三件當天讓自己感到開心的事，來幫助自己集中於正向的經歷，來提升正向能量。此外，無論大小事情，記得都應給予自己肯定，並經常表達對自己的喜愛和讚賞，這將有助於增強自信與正向心態。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": true,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0150"
+  ],
+  "version": "2024-12-04"
+}

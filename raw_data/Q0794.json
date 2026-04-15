@@ -1,0 +1,34 @@
+{
+  "id": "Q0794",
+  "text_canonical": "治療結束後，有時候吃飯還是會不小心咬到嘴巴，這是什麼原因？怎麼解決？",
+  "answer": "吃飯時咬到嘴巴可能是因為治療後咀嚼功能還沒完全恢復，嘴巴的動作還需要更多時間來協調。為了減少這種情況，可以選擇：(1)容易咀嚼和控制的食物，例如切成小塊的軟質食物或泥狀食物。(2)在咬東西時慢慢來，注意每一口的動作，避免一次吃太多。(3)如果情況經常發生，可以和語言治療師討論，他們可能會建議一些簡單的咀嚼練習來幫助改善。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [
+    "咀嚼困難",
+    "吞嚥困難"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0236"
+  ],
+  "version": "2025-02-17"
+}

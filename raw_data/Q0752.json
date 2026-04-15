@@ -1,0 +1,28 @@
+{
+  "id": "Q0752",
+  "text_canonical": "化療放療後經常拉肚子(腹瀉)，管灌的營養品是不是要換成其他的種類？",
+  "answer": "腹瀉可能是因為化放療讓腸胃變得比較敏感，建議您可以和營養師討論，換成低脂肪、低乳糖或添加益生菌的營養品，這樣能減少腸胃的刺激。也可以試著減少每次的灌食量，分次多灌幾次，讓腸胃有時間適應。如果腹瀉持續或很嚴重，記得馬上聯繫醫生，他們會協助您處理這個問題，讓您更舒服一些。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": "手術後化放療",
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0233",
+    "REF0234"
+  ],
+  "version": "2025-02-17"
+}

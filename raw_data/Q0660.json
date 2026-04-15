@@ -1,0 +1,34 @@
+{
+  "id": "Q0660",
+  "text_canonical": "看到自己和以前不一樣，我該怎麼開始接受這個改變？",
+  "answer": "接受自己與以前不一樣需要時間，這是一個逐步調適的過程。試著每天對自己說一些正面的話，比如「我仍然是值得被愛的」，或者「這些改變不會定義我」。與家人和朋友聊聊您的感受，分享您的經歷，這能讓你感到被支持。心理諮商師也可以幫助您更快適應這些變化。您的價值並不僅僅在於外表，而在於您所經歷的一切和你的內在力量。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "O",
+    "C"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [
+    "面部外觀改變"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0208"
+  ],
+  "version": "2025-02-12"
+}

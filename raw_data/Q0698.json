@@ -1,0 +1,29 @@
+{
+  "id": "Q0698",
+  "text_canonical": "我剛發現自己得到口腔癌，有些人說多吃蔬菜水果對癌症有幫助，但我吃起來嘴巴很不舒服，怎麼辦？",
+  "answer": "剛診斷口腔癌的患者如果嘴巴不舒服，可能是腫瘤位置或口腔環境的影響，而不是治療的副作用。如果這種不適感讓吃東西變得困難，您可以透過以下方法進食：(1)試著將蔬菜煮得更軟或打成果汁來減少咀嚼負擔。(2)水果選擇像香蕉或熟透的芒果這類軟質地的，容易吃又營養。如果還是覺得不舒服，建議儘早向醫生或營養師反映，讓他們幫助您找到更適合的飲食方式。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": "手術前",
+  "functional_impact": [
+    "體重減輕營養不良"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0221"
+  ],
+  "version": "2025-02-17"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "Q0516",
+  "text_canonical": "手術、化療、放療過程有多長？我需要住院嗎？住院要住多久？",
+  "answer": "治療時間的長短取決於您選擇的治療方式和身體狀況：(1)手術後通常需要住院2到3週，醫生會根據您的恢復情況決定是否可以出院。(2)放療一般不需要住院，治療時間約為6到7週，每週來醫院的次數依醫師安排而定。(3)化療通常分週期進行，每個週期之間會有休息時間，住院與否視化療藥物種類和您的健康狀況而定。醫生會幫您規劃合適的治療時間表，讓您了解過程並做好準備。",
+  "source_type": "observation",
+  "modality": "mixed",
+  "focusp": [
+    "U"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": true,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0125"
+  ],
+  "version": "2025-02-10"
+}

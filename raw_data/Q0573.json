@@ -1,0 +1,31 @@
+{
+  "id": "Q0573",
+  "text_canonical": "口腔癌病人需要補充哪些營養素？每天多少熱量才夠？點滴營養補充有沒有必要？",
+  "answer": "口腔癌病人手需要高熱量和高蛋白質的食物來支撐身體功能，建議選擇軟質、易於咀嚼和吞嚥的食品，同時可以使用營養品輔助。每日熱量需求可根據體重乘以30-35大卡來估算，並可記錄營養日誌以便與營養師合作制定個別化的飲食計畫。如果情況需要，也可以採打點滴方式補充營養，無法由口進食的病人在病情許可下仍會優先選擇腸道營養作為補充方式。",
+  "source_type": "clinician_faq",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [
+    "體重減輕營養不良"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [],
+  "version": "2025-02-10"
+}

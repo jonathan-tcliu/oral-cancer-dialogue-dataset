@@ -1,0 +1,30 @@
+{
+  "id": "Q0744",
+  "text_canonical": "醫生說手術後恢復需要時間，那吃東西會不會影響我傷口癒合的速度？有哪些食物可以幫助?",
+  "answer": "飲食會影響手術傷口的癒合速度，攝取足夠的蛋白質、維生素和熱量特別重要，例如：(1)蛋白質幫助手術傷口修復，像魚肉、雞蛋、豆腐或牛奶都是好選擇。(2)維生素C能促進膠原蛋白生成，加速傷口癒合，可以多吃水果泥或蔬菜湯。(3)需要健康的脂肪，比如橄欖油或酪梨，提供額外的能量。如果您覺得很難吃到這些營養，可以和營養師討論，使用營養補充品來補足需求。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0222"
+  ],
+  "version": "2025-02-17"
+}

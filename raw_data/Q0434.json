@@ -1,0 +1,27 @@
+{
+  "id": "Q0434",
+  "text_canonical": "皮瓣移植部位的傷口在手術後需要注意哪些事項？\n(也可放入症狀管理中)",
+  "answer": "取皮瓣區域的傷口需要每天換藥，拆線的時間則根據傷口恢復情況而定，並且應抬高取皮瓣區域的上下肢，並使用彈性繃帶固定，以減輕腫脹。如果皮瓣位於下肢，則需臥床休息，避免隨意下床活動，必須經醫師許可後才能逐步下床活動。此外，必須絕對禁止吸煙和飲酒，飲食方面應多攝取高蛋白和高維生素的食物，以促進傷口癒合。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "U"
+  ],
+  "treatment_phase": "手術後",
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": true,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0023"
+  ],
+  "version": "2024-12-04"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "Q0372",
+  "text_canonical": "(家屬提問) 我應該為病人準備哪些易於吞嚥的食物？",
+  "answer": "建議選擇質地軟嫩、易於咀嚼和吞嚥的多樣食物，並可加入油脂烹調，正餐和點心可以選擇軟質且容易吞嚥的食材，如絞肉、蒸蛋、小魚、豆腐或嫩菜葉和瓜類等。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "F",
+    "S"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [
+    "咀嚼困難",
+    "吞嚥困難",
+    "發音說話困難",
+    "張口困難流口水",
+    "皮膚紅腫口腔黏膜破損嚴重",
+    "口乾嚴重",
+    "體重減輕營養不良"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0145"
+  ],
+  "version": "2024-12-04"
+}

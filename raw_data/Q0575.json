@@ -1,0 +1,31 @@
+{
+  "id": "Q0575",
+  "text_canonical": "放射治療前有什麼保養品可以預防皮膚破皮嗎？",
+  "answer": "醫師會根據放射性皮膚炎的情況，開立類固醇藥膏使用，因此無需特別在照射區域使用其他保養品。日常護理建議以淋浴為主，避免過度搓揉治療部位，穿著圓領或低領的棉質衣服來減少摩擦，並可使用柔軟的絲巾來保護頸部皮膚。避免冰敷或熱敷治療區域，避免用指甲抓癢，並避免游泳、泡澡或浸泡在溫泉中。務必要注意防曬，並避免過度清潔皮膚。",
+  "source_type": "clinician_faq",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [
+    "皮膚紅腫口腔黏膜破損嚴重"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [],
+  "version": "2025-02-10"
+}

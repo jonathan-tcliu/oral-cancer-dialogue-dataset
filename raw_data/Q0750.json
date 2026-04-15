@@ -1,0 +1,28 @@
+{
+  "id": "Q0750",
+  "text_canonical": "化放療期間我經常反胃或想吐，管灌的速度或食物是不是需要改變？",
+  "answer": "化放療時容易反胃或想吐是很常見的情況，您可以試著(1)把管灌的速度放慢一些，讓營養品慢慢進入胃裡。(2)每次灌的量可以減少一點，但多灌幾次，這樣能減輕胃的壓力。(3)如果還是覺得不舒服，可以請營養師協助建議您換成更容易消化的營養品，同時和醫生討論是不是需要用一些幫助止吐的藥物來改善不適。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": "手術後化放療",
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0233",
+    "REF0234"
+  ],
+  "version": "2025-02-17"
+}

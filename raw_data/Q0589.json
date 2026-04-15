@@ -1,0 +1,28 @@
+{
+  "id": "Q0589",
+  "text_canonical": "口腔癌手術後多久能恢復？我能繼續工作嗎？",
+  "answer": "一般情況下，手術後大約1個月，患者可開始逐漸恢復日常活動，並根據自身情況逐步返回工作崗位。然而，有些副作用可能需要較長時間的復健才能逐步恢復正常功能。手術切除範圍較大，或有進行重建手術、化療或放療的情況，建議預留6個月到1年的時間進行復健與恢復。您可以根據自己的經濟和身體狀況來決定合適的復工時間，也可以與主管溝通，根據您的治療和恢復情況，調整工作內容和工作時間。",
+  "source_type": "clinician_faq",
+  "modality": "verbal",
+  "focusp": [
+    "U"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": true,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [],
+  "version": "2025-02-10"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "Q0611",
+  "text_canonical": "手術後的自費營養品實在太貴，有機構能提供經濟援助嗎？",
+  "answer": "手術後的營養品費用昂貴，您可以向慈善機構尋求協助：(1)慈濟基金會提供住院或康復病患的醫療與營養補助，幫助支付營養品開銷。申請時需提供醫師診斷證明及費用單據，並由社工評估經濟狀況。(2)富邦慈善基金會和陽光基金會亦提供癌症患者的醫療補助，包括營養品費用。建議向醫院社工室反映需求，他們將協助找到合適資源並整理相關文件。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": true,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0184",
+    "REF0185"
+  ],
+  "version": "2025-02-12"
+}

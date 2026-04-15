@@ -1,0 +1,28 @@
+{
+  "id": "Q0047",
+  "text_canonical": "對口中的傷口「植皮」 或是「補皮」是什麼意思呢？",
+  "answer": "在手術治療後，由於術後黏膜缺損的範圍不同，需要進行不同程度的修復手術。自體皮膚移植通常用於中等程度的黏膜缺損。這種移植是從身體其他部位（如大腿或頸部）取的表皮，通常通過刀片或取皮機來獲取皮膚，然後將這些皮膚移植到口腔裸露的缺陷表面進行覆蓋，這個過程稱為補皮或植皮。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": true,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [],
+  "version": "2024-10-24"
+}

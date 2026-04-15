@@ -1,0 +1,30 @@
+{
+  "id": "Q0591",
+  "text_canonical": "我得了口腔癌，有哪些資源能幫助我？",
+  "answer": "如果您有經濟壓力，可以尋問醫院的癌症資源中心和社工室的評估與協助。民間團體如癌症基金會、癌症希望基金會和陽光基金會等，也有提供病友團體、心理支持、就業輔導以及營養師、社工師等專業服務。醫院的腫瘤個案管理師，也會提供專業的護理諮詢，幫助您度過治療過程。",
+  "source_type": "clinician_faq",
+  "modality": "verbal",
+  "focusp": [
+    "U"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": true,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [],
+  "version": "2025-02-10"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "Q0274",
+  "text_canonical": "當治療過程覺得挫折時，我該怎麼鼓勵自己繼續走下去？",
+  "answer": "治療過程中，與醫師保持溝通很重要，對治療進展有疑問時可與醫師討論，幫助您了解每次治療的效果。接納自己的情緒也是關鍵，允許自己感受挫折，而不是壓抑，這是重新面對挑戰的第一步。當感到無力時，和家人、朋友聊聊天，或向心理諮詢尋求支持，可以幫助您找到新想法並重拾力量。設定小目標也有助於逐步前進，減少焦慮，並感受到自己的進步。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "O",
+    "C"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": true,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0110"
+  ],
+  "version": "2024-11-07"
+}

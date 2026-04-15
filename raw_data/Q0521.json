@@ -1,0 +1,30 @@
+{
+  "id": "Q0521",
+  "text_canonical": "我的氣切可以拿掉嗎？？",
+  "answer": "氣切能不能拿掉，要看您的恢復情況。很多病人是因為手術或腫瘤的關係需要暫時做氣切，等傷口好了、呼吸沒問題後，醫生會評估是不是可以拔掉。如果氣管或喉嚨的結構有比較大的改變，可能需要長時間保留氣切。建議您多和醫生討論，並聽取專業建議，按部就班地進行復健，增加拔掉氣切的機會。",
+  "source_type": "observation",
+  "modality": "mixed",
+  "focusp": [
+    "U"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": true,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0125"
+  ],
+  "version": "2025-02-10"
+}

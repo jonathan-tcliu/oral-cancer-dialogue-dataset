@@ -1,0 +1,27 @@
+{
+  "id": "Q0748",
+  "text_canonical": "放療後喉嚨更痛了，鼻胃管餵食會不會影響我的治療或更不舒服？",
+  "answer": "放療後喉嚨可能會更痛，但鼻胃管管灌不會影響您的治療。相反，鼻胃管可以減少喉嚨痛帶來的困擾，幫助您繼續補充足夠的營養。如果鼻胃管讓您覺得不舒服，可以請醫護人員幫忙檢查，調整管子的固定位置或清潔方法，以減少刺激。如果疼痛很嚴重，告訴醫生，他們可能會提供止痛藥或其他方式來幫助你緩解不適。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": "手術後化放療",
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": true,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0223"
+  ],
+  "version": "2025-02-17"
+}

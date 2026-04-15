@@ -1,0 +1,34 @@
+{
+  "id": "Q0633",
+  "text_canonical": "因為癌症，我們家需要重新安排生活，有沒有機構可以提供相關幫助？",
+  "answer": "您可以參考：(1)陽光基金會提供癌症患者的醫療、交通費及職業重建補助，幫助家庭獲得全面支持，申請需提供醫師證明及經濟資料。(2)慈濟基金會針對經濟困難家庭提供醫療、生活及教育補助，幫助家庭重建生活。(3)中華基督教救助協會提供短期經濟補助及資源連結，協助家庭過渡。建議向醫院社工室求助，協助整理申請並對接相關機構與服務。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": true,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0183",
+    "REF0184",
+    "REF0198"
+  ],
+  "version": "2025-02-12"
+}

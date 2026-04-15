@@ -1,0 +1,29 @@
+{
+  "id": "Q0565",
+  "text_canonical": "怎麼面對疾病帶來的恐懼和焦慮？",
+  "answer": "會有擔心和害怕都是很正常的反應，鼓勵您可以：(1)進一步了解治療需要面對的狀況，以及請醫療團隊教導治療後的照護方式，增進自我照顧的能力。(2)也可以尋求病友團體的資源，親友的支持也會是一大助力。(3)如果壓力大到影響睡眠、有自殺或自傷的想法，建議您尋求身心科的協助，若想與專業人員討論情緒紓壓方法，可以請醫療團隊轉介心理師，進行深度的會談。",
+  "source_type": "clinician_faq",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": true,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [],
+  "version": "2025-02-10"
+}

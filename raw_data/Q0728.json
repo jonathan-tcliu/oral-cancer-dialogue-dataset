@@ -1,0 +1,32 @@
+{
+  "id": "Q0728",
+  "text_canonical": "現在吃飯很慢，家人會一直催我快一點，我該怎麼辦？",
+  "answer": "手術後需要更多時間來咬東西和吞嚥，這是正常的。建議和家人溝通，告訴他們您目前需要慢慢吃才能安心進食，讓家人了解您的狀況，可以試著把用餐時間調整得更彈性一些，讓您有足夠的時間吃飯。也可以考慮分開用餐，這樣不會有時間壓力，能讓您專注在進食上。吃得慢一些對身體恢復是有幫助的，別讓自己有壓力！",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [
+    "體重減輕營養不良"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0224"
+  ],
+  "version": "2025-02-17"
+}

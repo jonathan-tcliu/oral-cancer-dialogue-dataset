@@ -1,0 +1,32 @@
+{
+  "id": "Q0328",
+  "text_canonical": "鼻塞或耳鳴會好嗎？",
+  "answer": "鼻塞和耳鳴是口腔癌治療後可能出現的副作用，這些症狀可能由放射治療引起的組織炎症或手術後的組織變化導致。大多數情況下，這些症狀會隨著時間逐漸改善。為了緩解不適，醫師可能會建議使用鼻腔噴劑或其他藥物來減輕症狀。此外，保持良好的口腔衛生和適度的休息也有助於恢復。如果症狀持續或加重，請及時告知醫生進一步評估和處理。",
+  "source_type": "observation",
+  "modality": "mixed",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [
+    "鼻塞、耳鳴影響"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": true,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0132"
+  ],
+  "version": "2024-12-04"
+}

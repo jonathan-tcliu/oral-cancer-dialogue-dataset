@@ -1,0 +1,31 @@
+{
+  "id": "Q0414",
+  "text_canonical": "要怎麼跟同事說罹癌這件事？\n同事的關心反而讓我有壓力，怎麼處理？",
+  "answer": "您可以自行決定是否向同事說明，這取決於與該同事的工作交集、是否需要對方的協助以及您的觀察。若決定告知，當遇到熱心的同事時，應學會表達感謝並告知他們關心讓您感受到壓力，同時提出改善的建議。如果同事表達不滿情緒，記得對方的情緒不是您的責任，可以冷處理並給對方時間思考。最重要的是，建立您真正喜歡且自在的關係。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": true,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0150"
+  ],
+  "version": "2024-12-04"
+}

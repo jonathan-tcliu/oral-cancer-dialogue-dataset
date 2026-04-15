@@ -1,0 +1,31 @@
+{
+  "id": "Q0450",
+  "text_canonical": "標靶藥物要用多久?效果如何?",
+  "answer": "標靶治療的療程長度依病人情況而定，並無固定時間。治療過程中，病人需積極配合服藥，不可擅自停止，若有問題應向醫師反映並諮詢建議。研究顯示，口腔癌的標靶藥物（如cetuximab）能突破傳統化療的效果，減少副作用，並提高腫瘤的局部控制率，促使腫瘤細胞凋亡、抑制增生與轉移，同時增強放射治療效果，提高治療成效，對於轉移或局部復發的頭頸癌病人，將有助於延長存活時間。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "U"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": true,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0165"
+  ],
+  "version": "2024-12-04"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "Q0339",
+  "text_canonical": "我在化療/放療可以喝牛樟芝嗎？",
+  "answer": "牛樟芝在傳統中醫中被認為具有保肝和抗腫瘤的效果，但目前缺乏足夠的科學證據證明牛樟芝在癌症治療期間的安全性和有效性。此外，牛樟芝可能與化療藥物產生交互作用，影響治療效果。因此，在化療或放療期間，建議不要自行服用牛樟芝。請先與您的主治醫師討論，確保不會對治療產生不良影響。",
+  "source_type": "observation",
+  "modality": "mixed",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": "手術後化放療",
+  "functional_impact": [
+    "咀嚼困難",
+    "吞嚥困難",
+    "張口困難流口水",
+    "皮膚紅腫口腔黏膜破損嚴重",
+    "口乾嚴重",
+    "體重減輕營養不良"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0139"
+  ],
+  "version": "2024-12-04"
+}

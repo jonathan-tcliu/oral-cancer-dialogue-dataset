@@ -1,0 +1,31 @@
+{
+  "id": "Q0796",
+  "text_canonical": "我已經治療結束了，如果偶爾想吃一些油炸或辣的食物，會不會對我的口腔帶來傷害？應該怎麼吃才安全？",
+  "answer": "偶爾吃一點油炸或辣的食物一般不會對口腔造成嚴重傷害，但要注意適量。如果您的口腔仍然比較敏感，可以選擇不太辣或油膩的食物，避免刺激。如果您想試著吃這些食物，可以搭配濕潤的食物一起吃，比如喝湯或配點濃湯，減少對口腔的刺激。如果吃完後感覺不舒服，應避免再吃類似的食物，並與醫生或營養師討論哪些食物更適合您現在的狀況。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0223"
+  ],
+  "version": "2025-02-17"
+}

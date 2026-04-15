@@ -1,0 +1,32 @@
+{
+  "id": "Q0604",
+  "text_canonical": "如果我治療後沒有收入，還有什麼辦法可以幫助我維持生活？",
+  "answer": "您可以尋求多種資源協助：(1)申請衛福部「重大傷病卡」，幫助減免醫療費用。如符合條件，也可以向勞保局申請「普通傷病給付」，這是針對因疾病或傷害無法工作的補助。(2)社會局提供的急難救助可以幫助渡過短期經濟困難。(3)民間基金會如全聯急難救助及慈濟基金會提供生活補助，幫助收入中斷的病友。(4)可向社福中心或醫院社工室洽詢，協助整理申請文件。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": true,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0175",
+    "REF0182"
+  ],
+  "version": "2025-02-12"
+}

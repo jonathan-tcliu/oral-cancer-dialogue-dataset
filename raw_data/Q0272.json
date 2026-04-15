@@ -1,0 +1,32 @@
+{
+  "id": "Q0272",
+  "text_canonical": "當我覺得身體和心情都很累時，怎麼辦？有什麼方法可以幫助我放鬆？",
+  "answer": "辛苦了！您可以嘗試簡單的運動，如慢走或伸展，來增加精力和改善情緒。定期進行低強度運動有助於增強耐力並恢復活力。同時，了解自己的極限，優先做讓您快樂和有成就感的事，並學會說“不”，以避免過度勞累。您也可以通過正念呼吸、聽音樂或冥想來放鬆，減少負面情緒。例如，坐下時專心感受每次吸氣吐氣的節奏，或散步時專注於步伐，這樣能減少壓力並幫助放鬆。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "O",
+    "C"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": true,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0080",
+    "REF0082"
+  ],
+  "version": "2024-11-07"
+}

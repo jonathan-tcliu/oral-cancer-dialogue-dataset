@@ -1,0 +1,32 @@
+{
+  "id": "Q0317",
+  "text_canonical": "癌症會復發的機率有多高？",
+  "answer": "口腔癌治療後，癌症會不會復發，要看您治療時癌症的分期、治療效果以及生活習慣。如果是早期發現並治療的病人，復發的機率比較低；但如果是晚期癌症或癌細胞已經擴散，復發的可能性就會比較高，大約有30%到50%的病人可能復發。要避免復發，最重要的是戒菸、戒檳榔、少喝酒，還要按時回診追蹤，才能早發現、早處理。",
+  "source_type": "observation",
+  "modality": "mixed",
+  "focusp": [
+    "U"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": true,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0125"
+  ],
+  "version": "2024-12-04"
+}

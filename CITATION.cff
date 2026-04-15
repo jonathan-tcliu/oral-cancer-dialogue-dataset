@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "Safety-Aware Dialogue System for Postoperative Oral Cancer Care with Structured Clarification and a Clinically Curated Dataset"
+message: "If you use this dataset or code, please cite our paper."
+type: dataset
+
+authors:
+  - family-names: "Liu"
+    given-names: "Tzu-Chi"
+  - family-names: "Yang"
+    given-names: "Hui-Ying"
+  - family-names: "Shun"
+    given-names: "Shiow-Ching"
+  - family-names: "Chen"
+    given-names: "Yu-Chi"
+  - family-names: "Chen"
+    given-names: "Lu-Yen Anny"
+  - family-names: "Chen"
+    given-names: "Yong-Sheng"
+
+year: 2026
+
+conference:
+  name: "Annual Meeting of the Association for Computational Linguistics"
+  location: "ACL 2026"
+
+repository-code: "https://github.com/jonathan-tcliu/<repo-name>"
+
+abstract: >
+  This repository provides the clinically curated dataset and supporting resources
+  for a safety-aware dialogue system designed for postoperative oral cancer care,
+  including QA pairs, clarification prompts, safety lexicons, and prompt templates.

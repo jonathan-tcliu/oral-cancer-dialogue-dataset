@@ -1,0 +1,27 @@
+{
+  "id": "Q0309",
+  "text_canonical": "我為什麼會得這個癌症？",
+  "answer": "口腔癌跟生活習慣有很大關係。如果您有嚼檳榔、抽菸或常喝酒的習慣，這些東西會刺激口腔，讓細胞慢慢變壞，可能變成癌症。另外，嘴巴不常清潔、假牙不合適，或是感染像人類乳突病毒（HPV）這類的病毒，也會增加口腔癌的風險。家族裡有癌症病史或是營養不足，也可能是原因之一。改變這些習慣，可以幫助降低癌症發生或復發的機會。",
+  "source_type": "observation",
+  "modality": "mixed",
+  "focusp": [
+    "U"
+  ],
+  "treatment_phase": "手術前",
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": "為什麼會得口腔癌之提問",
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0124"
+  ],
+  "version": "2024-12-04"
+}

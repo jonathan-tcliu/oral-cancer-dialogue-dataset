@@ -1,0 +1,34 @@
+{
+  "id": "Q0676",
+  "text_canonical": "如果治療影響了我的表情肌，我還能表達情緒嗎？",
+  "answer": "治療可能影響面部表情，但不代表無法表達情緒。情感可以通過語言、身體語言和語調來傳達，如手勢、姿勢和眼神接觸。清楚表達情緒有助於讓別人理解您的感受。雖然面部功能受限，復健訓練可有助於逐步恢復肌肉功能，提升表達能力。另外，培養情緒覺察，如寫日記或正念練習，也有助於更清晰地表達您的情緒。如有困擾，也可以考慮參與支持團體或尋求專業幫助。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "O",
+    "C"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [
+    "面部外觀改變"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0044"
+  ],
+  "version": "2025-02-12"
+}

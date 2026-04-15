@@ -1,0 +1,34 @@
+{
+  "id": "Q0661",
+  "text_canonical": "我害怕我的外貌會讓小孩子害怕，我該怎麼跟他們解釋？",
+  "answer": "孩子的反應通常源於對變化的不了解，所以清楚地解釋很重要。用簡單的語言告訴他們，這些改變是因為治療讓您變得更健康，而不是其他原因。強調您還是同一個人，愛他們的心永遠不變。您可以用玩具或故事的方式幫助他們理解，讓他們知道疤痕或改變只是外在，不會影響你們的關係。耐心回答他們的問題，給他們時間適應。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "O",
+    "C"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [
+    "面部外觀改變"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0209"
+  ],
+  "version": "2025-02-12"
+}

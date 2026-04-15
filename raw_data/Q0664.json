@@ -1,0 +1,34 @@
+{
+  "id": "Q0664",
+  "text_canonical": "如果別人問起我的外觀改變，我該怎麼回應？",
+  "answer": "當有人問起您的外觀變化時，可能讓您感到尷尬或不自在，但記住，這完全是由您來決定如何回應。如果您感覺可以坦然面對，可以簡單說：「我接受了治療，現在正在康復。」如果不想深入討論，可以回應：「我很好，謝謝關心。」或轉移話題說：「最近過得不錯，你呢？」最重要的是，要相信外貌的改變並不會改變你的價值，你有權決定分享多少內容。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "O",
+    "C"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [
+    "面部外觀改變"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0210"
+  ],
+  "version": "2025-02-12"
+}

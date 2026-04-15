@@ -1,0 +1,33 @@
+{
+  "id": "Q0776",
+  "text_canonical": "比較硬的食物我咬不動也吞不下，是不是要繼續吃軟質的食物一陣子？",
+  "answer": "如果硬的食物讓您覺得很難吃下去，可以先吃軟一點的食物，比如蒸蛋、燉菜或泥狀的食物，這樣比較容易咀嚼和吞嚥。等到吞嚥能力進步了，再慢慢試著吃稍微硬一點的食物，但要一步步來，不要急。如果有問題，記得和您的治療團隊溝通幫助您安排適合的飲食，讓您吃得安全又放心。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [
+    "咀嚼困難",
+    "吞嚥困難"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0226"
+  ],
+  "version": "2025-02-17"
+}

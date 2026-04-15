@@ -1,0 +1,31 @@
+{
+  "id": "Q0553",
+  "text_canonical": "放射治療後的口乾讓我很困擾，要怎麼處理？",
+  "answer": "口乾處理建議：(1)醫師可能會開立促進口水分泌的藥物，建議使用生理食鹽水保持漱口習慣，並適量補充水分。也可以選擇不含酒精但具保濕功能的漱口水或凝膠來促進口腔保濕；(2)飲食可以調整食物的烹調方式，如勾芡或增加油脂，幫助改善吞嚥；(3)口水減少容易引發蛀牙，放射治療後3-5年內不建議拔牙，建議定期接受牙科追蹤檢查。",
+  "source_type": "clinician_faq",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [
+    "口乾嚴重"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [],
+  "version": "2025-02-10"
+}

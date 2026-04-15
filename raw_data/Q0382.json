@@ -1,0 +1,39 @@
+{
+  "id": "Q0382",
+  "text_canonical": "(家屬提問) 有哪些食物可以讓病人保持良好的體力？",
+  "answer": "建議選擇高熱量的濃縮食物，如冰淇淋和奶昔，雞蛋、雞肉、牛肉、豬肉、魚肉和豆腐等都是優質蛋白質的良好來源，建議可以攝取。或是可以使用勾芡的食物來增加熱量攝取，例如玉米濃湯、酸辣湯和大滷麵等。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "F",
+    "S"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [
+    "咀嚼困難",
+    "吞嚥困難",
+    "發音說話困難",
+    "張口困難流口水",
+    "皮膚紅腫口腔黏膜破損嚴重",
+    "口乾嚴重",
+    "體重減輕營養不良"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0051"
+  ],
+  "version": "2024-12-04"
+}

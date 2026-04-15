@@ -1,0 +1,103 @@
+{
+  "version": "1.0",
+  "language": "zh-TW",
+  "facets": {
+    "booleans": {
+      "type": "multi_boolean",
+      "values": [
+        "心理問題",
+        "RTW",
+        "經濟與社會資源",
+        "危險字詞",
+        "癌症復發",
+        "營養照護",
+        "傷口與症狀照護",
+        "治療原因與安排",
+        "口腔復健與身體活動"
+      ]
+    },
+    "focusp": {
+      "type": "multi_label",
+      "values": ["F", "O", "C", "U", "S", "P"]
+    },
+    "treatment_phase": {
+      "type": "multi_label",
+      "values": ["手術前", "手術後", "手術後化放療", "存活期"],
+      "note": "Recommended canonical type is list[str]. If only one phase applies, still use a list with one element."
+    },
+    "functional_impact": {
+      "type": "multi_label",
+      "values": [
+        "咀嚼困難",
+        "吞嚥困難",
+        "發音說話困難",
+        "張口困難流口水",
+        "皮膚紅腫口腔黏膜破損嚴重",
+        "口乾嚴重",
+        "面部外觀改變",
+        "體重減輕營養不良",
+        "鼻塞、耳鳴影響",
+        "身體活動限制",
+        "睡眠問題",
+        "聽力影響",
+        "疲倦",
+        "體力下降"
+      ]
+    },
+    "other_condition": {
+      "type": "optional_label",
+      "values": ["其他狀況", "其他情況"],
+      "storage": "other_condition (nullable string) + optional other_condition_text label",
+      "note": "If present, other_condition may store free-text details or be empty string; null means not applicable."
+    },
+    "other_condition_text": {
+      "type": "optional_label",
+      "values": [
+        "詢問治療成功率",
+        "治療後生活安排問題",
+        "生活習慣/方式調整問題",
+        "口腔癌遺傳問題",
+        "與小孩溝通問題",
+        "家屬支持與溝通問題",
+        "為什麼會得口腔癌之提問",
+        "罹癌原因詢問",
+        "與醫療團隊溝通問題",
+        "罹癌後生育問題",
+        "治療後生活習慣調整問題",
+        "術後生活適應問題",
+        "家屬溝通問題",
+        "早期康復建議問題",
+        "詢問治療對生活的影響",
+        "治療期間可否打疫苗詢問",
+        "與家人溝通相關問題",
+        "家屬照顧問題",
+        "心理層次與角色功能相關問題",
+        "生活習慣詢問",
+        "口腔癌型態詢問",
+        "口腔癌遺傳或是傳染問題",
+        "罹癌後生活方式調整問題",
+        "病情了解提問",
+        "口腔癌分期治療詢問",
+        "生活習慣調整詢問",
+        "罹癌後生育計畫問題",
+        "止痛藥使用成癮問題",
+        "罹癌後本身慢性病照護方式提問",
+        "與小孩溝通罹癌問題",
+        "口腔癌分期詢問",
+        "治療成功率詢問",
+        "罹癌後生育計畫詢問",
+        "改善治療後身體狀況相關問題",
+        "詢問口腔癌是否會傳染",
+        "放射線治療照護詢問",
+        "術後生活影響問題詢問",
+        "口腔癌傳染問題",
+        "治療後照護事項詢問",
+        "止痛藥副作用問題",
+        "治療後生活調整問題",
+        "治療資料詢問",
+        "治療對生活的影響相關問題",
+        "擔心止痛藥的副作用問題"
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "Q0602",
+  "text_canonical": "我可以申請哪些專門針對癌症病人的就業補助？",
+  "answer": "目前在臺灣，針對癌症病人的專屬就業補助，建議您可以聯繫當地的社會福利單位或就業服務中心，了解是否有相關的補助計畫。此外，癌症希望基金會的「友善就業」計畫也提供相關資訊與支持，希望落實癌友友善職場環境，協助癌友重新回到職場。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": true,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0180"
+  ],
+  "version": "2025-02-10"
+}

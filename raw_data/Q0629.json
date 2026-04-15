@@ -1,0 +1,33 @@
+{
+  "id": "Q0629",
+  "text_canonical": "我不會使用電腦和網路，怎麼找到合適的補助申請方式？",
+  "answer": "如果您不熟悉電腦或網路，可透過以下方式申請補助：(1)撥打1957福利專線，免費諮詢並了解可申請的補助及所需文件。(2)可以前往當地社會局，社工人員會協助您了解補助選項並指導申請流程。\n(2)如您正在治療，可向醫院社工室求助，協助評估經濟狀況並推薦適合的補助。您也可以請家人或朋友陪同，以確保申請順利進行。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": true,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0175",
+    "REF0197"
+  ],
+  "version": "2025-02-12"
+}

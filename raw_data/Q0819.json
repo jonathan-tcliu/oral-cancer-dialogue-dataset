@@ -1,0 +1,30 @@
+{
+  "id": "Q0819",
+  "text_canonical": "治療到現在感覺沒什麼希望了，我該放棄嗎？",
+  "answer": "辛苦了，治療是一段辛苦的歷程。感謝您願意說出自己的想法，也請您不要放棄，希望有時候藏在意想不到的地方，建議您可以尋求信賴的朋友、家人談談，也可以與您的治療團隊討論接下來的治療計畫。另外，需要時也能尋求心理諮商師或醫療專業協助。",
+  "source_type": "clinician_faq",
+  "modality": "verbal",
+  "focusp": [
+    "C"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": true,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [],
+  "version": "2025-03-13"
+}

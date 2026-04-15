@@ -1,0 +1,31 @@
+{
+  "id": "Q0478",
+  "text_canonical": "取皮的地方可以活動嗎？ 可以洗澡嗎？",
+  "answer": "取皮部位在避免劇烈運動的情況下，可以進行一般的活動，但要小心不要讓上面的敷料或換藥敷料脫落。在傷口初期，儘量避免碰水；待人工敷料脫落後，可以恢復正常活動和洗澡，但仍需注意避免摩擦或接觸到過熱的水。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S",
+    "P"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": true,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0023"
+  ],
+  "version": "2024-12-04"
+}

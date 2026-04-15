@@ -1,0 +1,34 @@
+{
+  "id": "Q0672",
+  "text_canonical": "我可以用醫美的方式來改善治療後的外貌嗎？安全嗎？",
+  "answer": "醫美方式是改善外觀的一項治療方式。但這需與您的腫瘤科醫師討論，評估健康狀況與治療計畫，確保選擇的方式安全且適合您的需求。另外，良好的手術後護理也有助於達到理想效果並降低風險。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "O",
+    "C"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [
+    "面部外觀改變"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0216"
+  ],
+  "version": "2025-02-12"
+}

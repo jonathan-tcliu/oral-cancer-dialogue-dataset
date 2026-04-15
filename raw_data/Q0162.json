@@ -1,0 +1,30 @@
+{
+  "id": "Q0162",
+  "text_canonical": "補皮後的傷口會收縮嗎？ 需要復建嗎？",
+  "answer": "即使接受了皮膚移植治療，手術治療後仍可能出現攣縮現象。因此，術後將可能需要進行張口練習的復健治療。如有需要，您可以向治療團隊詢問有關口腔癌術後張口練習的方法。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "P"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": true,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0023"
+  ],
+  "version": "2024-10-25"
+}

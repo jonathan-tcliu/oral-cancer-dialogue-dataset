@@ -1,0 +1,25 @@
+{
+  "id": "Q0582",
+  "text_canonical": "手術是唯一的治療方式嗎？",
+  "answer": "手術是口腔癌的主要治療方法，如醫師評估認為腫瘤適合手術，則會優先考慮手術治療；然而，在特殊情況下，醫師也可能會考慮採放射線治療或藥物治療。",
+  "source_type": "clinician_faq",
+  "modality": "verbal",
+  "focusp": [
+    "U"
+  ],
+  "treatment_phase": "手術前",
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": true,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [],
+  "version": "2025-02-10"
+}

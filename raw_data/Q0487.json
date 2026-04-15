@@ -1,0 +1,30 @@
+{
+  "id": "Q0487",
+  "text_canonical": "有哪些運動可以減少治療帶來的副作用？",
+  "answer": "您可以嘗試進行有氧運動、伸展運動和肩頸柔軟操，以緩解口腔癌治療的副作用。有氧運動如步行、游泳和騎腳踏車，可以提升心肺功能，促進全身血液循環。伸展運動有助於緩解肌肉僵硬，促進血液流動。每天進行肩頸柔軟操和拉伸運動，可以保持關節的靈活性，幫助減少因治療引起的頸部和肩部僵硬。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "P"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": true,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0056"
+  ],
+  "version": "2024-12-04"
+}

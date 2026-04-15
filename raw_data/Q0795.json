@@ -1,0 +1,36 @@
+{
+  "id": "Q0795",
+  "text_canonical": "治療結束後，雖然我現在可以吃飯，但吃肉還是吃不太動，怎麼辦？",
+  "answer": "如果覺得吃肉很費力，您可以先選擇更容易咬的蛋白質食物來源，比如：(1)豆腐、魚肉或雞蛋，這些食物營養豐富，且質地較軟，不會對嘴巴造成負擔。(2)對於想吃的肉類，可以試著用燉煮的方式讓肉變得更軟爛，這樣會比較容易咀嚼和吞嚥。隨著咀嚼功能逐漸恢復，您可以慢慢嘗試較硬的食物。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [
+    "咀嚼困難",
+    "吞嚥困難",
+    "張口困難流口水",
+    "口乾嚴重"
+  ],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0236"
+  ],
+  "version": "2025-02-17"
+}

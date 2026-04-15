@@ -1,0 +1,32 @@
+{
+  "id": "Q0502",
+  "text_canonical": "口腔癌治療會對我的生活造成什麼影響?(運動、飲食、工作、性生活等)\n(與有效應對重複)",
+  "answer": "如果手術切除的範圍影響到舌頭、顳顎關節及唇的結構及功能，會造\n成唇部動作障礙，兩頰僵硬、感覺異常，舌頭控制不良、無力或活動不佳，吞嚥的反射遲緩，導致容易流口水、食物溢出、延遲吞嚥反射及發音不清楚等障礙。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "C",
+    "U"
+  ],
+  "treatment_phase": [
+    "手術前",
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": "治療對生活的影響相關問題",
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0050"
+  ],
+  "version": "2024-12-04"
+}

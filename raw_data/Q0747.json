@@ -1,0 +1,30 @@
+{
+  "id": "Q0747",
+  "text_canonical": "我現在還在用管灌，在化療或是放療時的食物量要不要增加？",
+  "answer": "化放療期間，身體需要更多的能量和營養來幫助修復受損的組織，營養需求的確會增加。以下是關於營養攝取的注意事項：(1)如果您正在用管灌進食，可以調整食物的量或種類，確保提供足夠的蛋白質、熱量和維生素。(2)高蛋白質的食物，如牛奶、豆類或專用營養配方能幫助支持免疫系統和傷口組織修復。(3)建議可以與營養師討論，由他們評估您的情況並設計合適的營養計劃。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "S"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": false,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": true,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0233"
+  ],
+  "version": "2025-02-17"
+}

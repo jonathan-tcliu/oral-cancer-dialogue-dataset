@@ -1,0 +1,32 @@
+{
+  "id": "Q0405",
+  "text_canonical": "我之後想回去上班，可以嗎？",
+  "answer": "建議您先與家人、治療團隊的專業人員討論您目前的疾病狀況，進一步評估自己的狀態以做出適合的工作決定。此外，您也可以聯繫過去的同事或主管，並持續關注行業的新資訊，這樣您的主管能夠清楚了解您的身心狀況，從而更好地評估您的工作負荷和人力分配；同時，您也不會完全失去對產業現況的了解。",
+  "source_type": "interview",
+  "modality": "verbal",
+  "focusp": [
+    "C",
+    "U"
+  ],
+  "treatment_phase": [
+    "手術後",
+    "手術後化放療",
+    "存活期"
+  ],
+  "functional_impact": [],
+  "心理問題": false,
+  "RTW": true,
+  "經濟與社會資源": false,
+  "危險字詞": false,
+  "癌症復發": false,
+  "營養照護": false,
+  "傷口與症狀照護": false,
+  "治療原因與安排": false,
+  "口腔復健與身體活動": false,
+  "other_condition": null,
+  "pii_checked": true,
+  "evidence_ref_ids": [
+    "REF0029"
+  ],
+  "version": "2024-12-04"
+}
