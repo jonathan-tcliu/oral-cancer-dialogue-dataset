@@ -23,7 +23,7 @@ conference:
   name: "Annual Meeting of the Association for Computational Linguistics"
   location: "ACL 2026"
 
-repository-code: "https://github.com/jonathan-tcliu/<repo-name>"
+repository-code: "https://github.com/jonathan-tcliu/oral-cancer-dialogue-dataset"
 
 abstract: >
   This repository provides the clinically curated dataset and supporting resources
